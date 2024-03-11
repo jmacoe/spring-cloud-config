@@ -5,4 +5,4 @@ management:
     port: 9001
     address: 127.0.0.1
 adicionales:
-  otra: valor2
+  otra: valor3
